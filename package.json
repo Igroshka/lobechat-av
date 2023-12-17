@@ -14,16 +14,16 @@
     "tts",
     "stt"
   ],
-  "homepage": "https://github.com/lobehub/lobe-chat",
+  "homepage": "https://ai-hub.rf.gd",
   "bugs": {
-    "url": "https://github.com/lobehub/lobe-chat/issues/new/choose"
+    "url": "https://github.com/Igroshka/lobechat-av/issues/new/choose"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobe-chat.git"
+    "url": "https://github.com/Igroshka/lobechat-av.git"
   },
   "license": "MIT",
-  "author": "LobeHub <i@lobehub.com>",
+  "author": "LobeHub <i@lobehub.com>, Ai-Hub.rf.gd, YUFI",
   "sideEffects": false,
   "scripts": {
     "build": "next build",
